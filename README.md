@@ -1,1 +1,1 @@
-# Astra
+# Astra specifikacija backenda u wordu + .json datoteke za svaku operaciju

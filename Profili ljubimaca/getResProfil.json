@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "ime": "Astra",
+        "zivotinja": "Pas",
+        "pasmina": "Lagotto",
+        "dob": 1,
+        "tezina": 25.3,
+        "zdravlje": {
+          "alergije": "nema"
+        }
+      }
+]
